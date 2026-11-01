@@ -40,7 +40,7 @@ A página adapta-se dinamicamente conforme a largura da viewport seguindo a meto
 
 ## 📸 Demonstração
 
-🔗 [Clique aqui para visualizar o projeto online](https://seu-usuario.github.io/seu-repositorio/)
+🔗 [Clique aqui para visualizar o projeto online](https://riqueerculano.github.io/desafio_discord/)
 
 ---
 
@@ -49,7 +49,7 @@ A página adapta-se dinamicamente conforme a largura da viewport seguindo a meto
 Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/riqueerculano/desafio_discord.git
 ```
 
 Navegue até a pasta do projeto:
@@ -62,4 +62,4 @@ Abra o arquivo `index.html` no seu navegador de preferência.
 
 ---
 
-Feito por Seu Nome
+Feito por Henrique Erculano
